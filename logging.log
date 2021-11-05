@@ -1,0 +1,8 @@
+2021-11-05 21:22:13,154 root WARNING: Wrong user logging.
+2021-11-05 21:22:13,154 root Level 35: Account doesn't exist.
+2021-11-05 21:22:13,154 root ERROR: Logging Error.
+2021-11-05 21:22:13,154 root CRITICAL: Critical error.
+2021-11-05 21:22:13,154 root WARNING: Wrong user logging.
+2021-11-05 21:22:13,154 mock Level 35: Account doesn't exist.
+2021-11-05 21:22:13,154 root ERROR: Logging Error.
+2021-11-05 21:22:13,154 root CRITICAL: Critical error.
